@@ -1,4 +1,2 @@
-classLoader/target
-classLoader/.idea
-metaspaceMonitoring/.idea
-metaspaceMonitoring/target/classes
+classes
+.idea
